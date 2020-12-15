@@ -2597,7 +2597,6 @@ input[type="radio"] + label:before {
 }
 
 .image.fill img {
-  height: auto;
   left: 0;
   position: absolute;
   top: 0;
